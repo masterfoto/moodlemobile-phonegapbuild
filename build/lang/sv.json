@@ -1,4 +1,4 @@
-{
+﻿{
     "mm.contentlinks.chooseaccount": "Välj konto",
     "mm.contentlinks.chooseaccounttoopenlink": "Välj ett konto för att öppna länken med",
     "mm.contentlinks.confirmurlothersite": "Länken tillhör en annan webbsida. Vill du öppna den?",
@@ -564,6 +564,7 @@
     "mm.settings.appname": "Moodle Mobile {{version}}",
     "mm.settings.appready": "Appen är redo",
     "mm.settings.cacheexpirationtime": "Cache utgångs tid (millisekunder)",
+    "mm.settings.configuringnotifications": "Notisinställningar",
     "mm.settings.cordovadevicemodel": "",
     "mm.settings.cordovadeviceosversion": "",
     "mm.settings.cordovadeviceplatform": "",
@@ -660,6 +661,7 @@
     "mma.calendar.notifications": "Notifikationer",
     "mma.competency.activities": "Aktiviteter",
     "mma.competency.competenciesmostoftennotproficientincourse": "Kompetenser som oftast ej uppnåtts i denna kurs",
+    "mma.competency.competencies": "Kurskompetenser",
     "mma.competency.coursecompetencies": "Kurskompetenser",
     "mma.competency.coursecompetencyratingsarenotpushedtouserplans": "Bedömning av kompetenser i denna kurs kommer inte att påverka studieplaner.",
     "mma.competency.coursecompetencyratingsarepushedtouserplans": "Bedömning av kompetenser i denna kurs uppdateras omedelbart i studieplanerna.",
@@ -736,6 +738,7 @@
     "mma.messages.message": "Meddelandets brödtext",
     "mma.messages.messagenotsent": "Meddelandet skickades inte, försök igen senare.",
     "mma.messages.messages": "Meddelanden",
+    "mma.messages.messagepreferences": "Meddelandeinställningar",
     "mma.messages.mustbeonlinetosendmessages": "Du måste vara online för att skicka meddelanden",
     "mma.messages.newmessage": "Ny meddelande...",
     "mma.messages.nomessages": "Inga meddelanden",
@@ -982,6 +985,7 @@
     "mma.notes.userwithid": "Användare med ID {{id}}",
     "mma.notifications.errorgetnotifications": "Fel att få meddelanden",
     "mma.notifications.notifications": "Meddelanden",
+    "mma.notifications.notificationpreferences": "Notisinställningar",
     "mma.notifications.therearentnotificationsyet": "Det finns inga meddelanden",
     "mma.participants.noparticipants": "Inga deltagare hittades för kursen",
     "mma.participants.participants": "Deltagare"
