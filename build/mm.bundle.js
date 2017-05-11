@@ -51891,7 +51891,6 @@ angular.module('mm.core')
 "cache_expiration_time" : 300000,
 "default_lang" : "sv",
 "languages": {"sv": "Svenska"},
-"plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
 "gcmpn": "694767596569",
