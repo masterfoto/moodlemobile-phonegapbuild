@@ -51886,8 +51886,8 @@ angular.module('mm.core')
 .constant('mmCoreConfigConstants', {
 "app_id" : "com.fotokurs-online.mobile",
 "appname": "Fotokurs by Mästerfoto",
-"versioncode" : "20170",
-"versionname" : "1.0",
+"versioncode" : "20171",
+"versionname" : "1.1",
 "cache_expiration_time" : 300000,
 "default_lang" : "sv",
 "languages": {"sv": "Svenska"},
