@@ -51895,7 +51895,7 @@ angular.module('mm.core')
 "wsextservice" : "local_mobile",
 "gcmpn": "694767596569",
 "customurlscheme": "moodlemobile",
-"siteurl": "http://fotokurs-online.se/",
+"siteurl": "https://www.fotokurs-online.se/",
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
