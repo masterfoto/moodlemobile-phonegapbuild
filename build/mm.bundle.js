@@ -51884,7 +51884,7 @@ angular.module('mm.addons.messageoutput_airnotifier')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-"app_id" : "com.fotokurs-online.mobile",
+"app_id" : "com.fotokurs-online.appmobile",
 "appname": "Fotokurs by Mästerfoto",
 "versioncode" : "20171",
 "versionname" : "1.1",
